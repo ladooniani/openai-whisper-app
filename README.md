@@ -39,9 +39,12 @@ print(result["text"])
 ```
 
 ## References
-
+ 
 1. OpenAI Whisper: https://github.com/openai/whisper
 2. Hub for installing OpenAI Whisper: https://hub.tcno.co/ai/whisper/install/
 3. How to run OpenAI's Whisper speech recognition model: https://www.assemblyai.com/blog/how-to-run-openais-whisper-speech-recognition-model/
-4. Download FFmpeg: https://ffmpeg.org/download.html#build-windows
+4. https://www.assemblyai.com/blog/how-to-run-openais-whisper-speech-recognition-model/
+5. Download FFmpeg: https://ffmpeg.org/download.html#build-windows
+6. https://platform.openai.com/docs/libraries
+7. https://github.com/openai/openai-node
  
